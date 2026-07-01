@@ -24,7 +24,7 @@ Unlike prior datasets, C-ReD emphasizes:
 ---
 
 ## 📊 Dataset Statistics
-
+![Statistics](figures/statistics.png)
 - **Total samples:** 128,610  
   - Human-written: 12,997  
   - AI-generated: 115,613  

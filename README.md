@@ -45,7 +45,7 @@ Unlike prior datasets, C-ReD emphasizes:
   "prompt": "...",
   "length": 512
 }
-
+```
 ---
 
 ## 📜 Citation
@@ -60,3 +60,4 @@ If you find our work useful, please cite:
   pages={42703--42733},
   year={2026}
 }
+```

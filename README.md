@@ -6,6 +6,7 @@ Recently, large language models (LLMs) are capable of generating highly fluent t
 ---
 
 ## 🔥 Overview
+![Framework](figures/framework.png)
 C-ReD is a large-scale **Chinese benchmark dataset for AI-generated text detection**, designed to evaluate model robustness across:
 
 - Multiple **domains** (News, Q&A, Film Review, Academic Writing, Composition)

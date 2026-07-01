@@ -31,7 +31,7 @@ Unlike prior datasets, C-ReD emphasizes:
 - **Domains:** 5 core domains 
 - **Generators:** 9 state-of-the-art LLMs  
 - **Unified schema across all samples**
-- ### Example Schema
+ ### Example Schema
 
 ```json
 {

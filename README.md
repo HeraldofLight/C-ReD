@@ -6,7 +6,6 @@
 ---
 
 ## 🔥 Overview
-![Framework](figures/main_cropped.pdf)
 C-ReD is a large-scale **Chinese benchmark dataset for AI-generated text detection**, designed to evaluate model robustness across:
 
 - Multiple **domains** (News, Q&A, Film Review, Academic Writing, Composition)

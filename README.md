@@ -22,3 +22,24 @@ Unlike prior datasets, C-ReD emphasizes:
 - 🔄 Cross-domain & cross-model generalization  
 
 ---
+
+## 📊 Dataset Statistics
+
+- **Total samples:** 128,610  
+  - Human-written: 12,997  
+  - AI-generated: 115,613  
+- **Domains:** 5 core domains 
+- **Generators:** 9 state-of-the-art LLMs  
+- **Unified schema across all samples**
+  ### Example Schema
+
+```json
+{
+  "id": 1,
+  "text": "...",
+  "label": 0,
+  "domain": "news",
+  "generator": "GPT-4o",
+  "prompt": "...",
+  "length": 512
+}

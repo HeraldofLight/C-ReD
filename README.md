@@ -24,7 +24,7 @@ Unlike prior datasets, C-ReD emphasizes:
 ---
 
 ## 📊 Dataset Statistics
-<img src="figures/statistics.png" width="700"/>
+<img src="figures/statistics.png" width="750"/>
 
 
 - **Total samples:** 128,610  

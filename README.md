@@ -45,3 +45,18 @@ Unlike prior datasets, C-ReD emphasizes:
   "prompt": "...",
   "length": 512
 }
+
+---
+
+## 📜 Citation
+
+If you find our work useful, please cite:
+
+```bibtex
+@inproceedings{qing2026c,
+  title={C-ReD: A Comprehensive Chinese Benchmark for AI-Generated Text Detection Derived from Real-World Prompts},
+  author={Qing, Chenxi and Wu, Junxi and Liu, Zheng and Qiu, Yixiang and Yu, Hongyao and Chen, Bin and Wu, Hao and Xia, Shu-Tao},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2026},
+  pages={42703--42733},
+  year={2026}
+}

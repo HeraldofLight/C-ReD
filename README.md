@@ -48,6 +48,19 @@ Unlike prior datasets, C-ReD emphasizes:
 ```
 ---
 
+## 🧪 Test Script & Code Sources
+
+Our evaluation and baseline implementations are partially built upon the following open-source repositories:
+
+- [ImBD](https://github.com/Jiaqi-Chen-00/ImBD)  
+- [Lastde Detector](https://github.com/TrustMedia-zju/Lastde_Detector)
+- [DNA-DetectLLM](https://github.com/Xiaoweizhu57/DNA-DetectLLM)
+- [LAPD](https://github.com/creator-xi/LAPD)
+
+We sincerely thank the authors for releasing their code.
+
+---
+
 ## 📜 Citation
 
 If you find our work useful, please cite:
